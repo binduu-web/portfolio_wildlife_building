@@ -1,0 +1,8 @@
+{
+  "name": "Wildlife Lens – AI Camera-Trap Identifier",
+  "description": "An AI-assisted camera-trap image sorting and species identification MVP for forest departments to separate wildlife sightings from empty frames and verify predictions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
